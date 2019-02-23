@@ -1,0 +1,27 @@
+{
+  "name": "fomo3d_simple",
+  "version": "1.0.0",
+  "description": "fomo3d简化版",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bignumber.js": "^8.0.2",
+    "bn.js": "^4.11.8",
+    "openzeppelin-solidity": "^2.1.2",
+    "solidity-coverage": "^0.5.11",
+    "web3": "^1.0.0-beta.46"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "truffle",
+    "fomo3d"
+  ],
+  "author": "Eric Sun <ericsgy@163.com>",
+  "license": "UNLICENSED"
+}
